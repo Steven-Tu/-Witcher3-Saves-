@@ -1,0 +1,60 @@
+[modAQUA]
+Enabled=1
+Priority=8
+VK=AQUA v2-2087-2-0
+[modActiveWitcherZoom]
+Enabled=1
+Priority=4
+VK=AWZ VI - Active Witcher Zoom version 6.0.3-1219-6-0-3
+[mod4kGrassTextures]
+Enabled=1
+Priority=15
+VK=Beautiful Grass V3-2686-3-0
+[modHQFacesV3]
+Enabled=1
+Priority=13
+VK=High Quality Faces (with Hairs and Beards)-1024-4-0
+[modMoreShadows]
+Enabled=1
+Priority=6
+VK=More Shadows-1886-0-5
+[modNewHeavyCloudsV1]
+Enabled=1
+Priority=10
+VK=New Heavy Clouds V1-3315-2-0-1542331395
+[modNewSmallCloudsV1]
+Enabled=1
+Priority=9
+VK=New Small Clouds V1-3315-2-0-1542494014
+[modCan]
+Enabled=1
+Priority=11
+VK=Next_Gen_Candles-1350-1-0
+[modTurbolighting]
+Enabled=1
+Priority=12
+VK=STLM 3.2-657-3-2
+[modHDReworkedProject]
+Enabled=1
+Priority=16
+VK=The Witcher 3 HD Reworked Project Ultimate-1021-12-0-1600864972
+[modHDReworkedProject2]
+Enabled=1
+Priority=16
+VK=The Witcher 3 HD Reworked Project Ultimate-1021-12-0-1600864972
+[modHDReworkedProject3]
+Enabled=1
+Priority=16
+VK=The Witcher 3 HD Reworked Project Ultimate-1021-12-0-1600864972
+[modHDReworkedProject4]
+Enabled=1
+Priority=16
+VK=The Witcher 3 HD Reworked Project Ultimate-1021-12-0-1600864972
+[modnonudity2]
+Enabled=1
+Priority=14
+VK=modNoMore-2932-1-4-1548958622
+[modSwordOfPickletonium]
+Enabled=1
+Priority=7
+VK=modSwordOfPickletonium
